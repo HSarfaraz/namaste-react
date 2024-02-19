@@ -416,6 +416,6 @@ npm run watch-test, the test case will keep running
 to install testing library jest dom
 npm install --save-dev @testing-library/jest-dom
 
-![alt landingPage](screenshots-swiggy/1-landing-page.png)
+![alt landingPage](screenshot-swiggy/1-landing-page.png)
 
-![alt detailsPage](screenshots-swiggy/2-details.png)
+![alt detailsPage](screenshot-swiggy/2-details.png)
